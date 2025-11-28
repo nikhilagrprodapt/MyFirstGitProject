@@ -1,1 +1,1 @@
-test2 test2 test2
+Hey this is my second Java File, which i created using GIT!
